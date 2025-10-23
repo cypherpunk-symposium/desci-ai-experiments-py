@@ -6,6 +6,8 @@
 
 * **[⬛ machine learning history](deep_learning)**
 * **[⬛ large language models](llms)**
+* **[⬛ hierarchical reasoning models](hrm)**
+* **[⬛ tiny recursive models](trm)**
 
 <br>
 
