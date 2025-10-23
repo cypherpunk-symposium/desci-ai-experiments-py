@@ -40,3 +40,10 @@ models)
 * **[mr. vp jd vance at the ai action summit in paris (2025)](https://www.youtube.com/watch?v=MnKsxnP2IVk)**
 * **[decentralized training looms, by pluralis (2024)](https://blog.pluralis.ai/p/decentralized-ai-looms)**
 * **[decentralized intelligence: bittensor's vision (2023)](https://plaintextcapital.com/blog/bittensors_ai_vision/)**
+
+<br>
+
+##### fun
+
+* **[the `.arange()` insanity, by xl0](https://xl0.github.io/tinygrad-notes/arange.html)**
+  - "matrix multiplication is sexy" - another 8th grade teacher 
