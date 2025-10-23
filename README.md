@@ -46,4 +46,6 @@ models)
 ##### fun
 
 * **[the `.arange()` insanity, by xl0](https://xl0.github.io/tinygrad-notes/arange.html)**
-  - "matrix multiplication is sexy" - another 8th grade teacher 
+  - "matrix multiplication is sexy" - another 8th grade teacher
+* **[good/succinct transformers overview, by ycomb](https://www.youtube.com/watch?v=JZLZQVmfGn8)**
+  - attention, attention, attention
