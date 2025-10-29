@@ -34,6 +34,7 @@ models)
 ##### ai and agi
 
 
+* **["we're summoning ghosts, not building animals", by a. karpathy && d. patel (2025)](https://www.youtube.com/watch?v=lXUZvyajciY)**
 * **[gpt@home: why the future of training is decentralized (2025)](https://www.gensyn.ai/articles/gpt-at-home)**
 * **[gpt-5 jailbreak with echo chamber and storytelling
   (2025)](https://neuraltrust.ai/blog/gpt-5-jailbreak-with-echo-chamber-and-storytelling)**
